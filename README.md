@@ -94,7 +94,9 @@ endmodule**
 
 **RTL**
 
-**Result:<img width="1197" height="341" alt="{7D30001E-7101-4546-84EF-D9CB885A5522}" src="https://github.com/user-attachments/assets/1686597c-c8c0-4541-9973-d18e097e1aaf" />
-**
+<img width="1197" height="341" alt="{7D30001E-7101-4546-84EF-D9CB885A5522}" src="https://github.com/user-attachments/assets/1686597c-c8c0-4541-9973-d18e097e1aaf" />
+
+**Result:**
+Thus the basic logic gates are studied and the truth tables are verified.
 
 
