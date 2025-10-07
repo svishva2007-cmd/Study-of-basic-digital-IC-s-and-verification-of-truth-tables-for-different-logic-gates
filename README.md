@@ -84,7 +84,8 @@ Y= A⊕B
 endmodule**
 
 
- Developed by: RegisterNumber: 
+ Developed by:s.vishvabala
+ RegisterNumber:25006451 
  
 **Logic symbol & Truthtable**
 
